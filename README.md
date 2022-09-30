@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey, I'm Alex 👋🏻
+
+I'm a senior full-stack product engineer.
+
+- 👨🏻‍💻 I have over a decade building on the web
+- 🧪 I love jamming with product teams to help solve people's problems
+- 🧑🏻‍🎨 I believe engineers should spend more time learning about design thinking
 
 <!--
 **alexcaza/alexcaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
