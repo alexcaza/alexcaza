@@ -7,5 +7,5 @@ I'm a senior full-stack product engineer.
 - 🧑🏻‍🎨 I believe engineers should spend more time learning about design thinking
 - 🤝 I think cross-team collaboration/ideation/planning should be baked into product processes
 
-Curious about what makes a product engineer?
-I tried to define the role here: [https://alexcaza.com/personal/the-rise-of-product-engineering/](https://alexcaza.com/personal/the-rise-of-product-engineering/)
+Curious about what makes a product engineer? I tried to define the role here:
+<br>[https://alexcaza.com/personal/the-rise-of-product-engineering/](https://alexcaza.com/personal/the-rise-of-product-engineering/)
